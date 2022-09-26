@@ -1,2 +1,2 @@
-# Internet-v-c-ng-ngh-web
+# Internet-và công nghệ web
 nhập môn front_end
