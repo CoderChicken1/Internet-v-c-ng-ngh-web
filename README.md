@@ -1,2 +1,2 @@
-# Internet-và công nghệ web
+# Internet and WEb
 nhập môn front_end
